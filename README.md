@@ -69,6 +69,8 @@ Money:
 
 Power:
 
-1) Engineer writing significant amount of code.
+1) Engineer writing significant amount of code and objecting to a few lines checkin.
 
 2) Not allowing to take vacation.
+
+3) Non-verbal communication when report tries to leave home slightly earlier than usual
