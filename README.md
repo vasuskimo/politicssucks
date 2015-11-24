@@ -72,5 +72,3 @@ Power:
 1) Engineer writing significant amount of code.
 
 2) Not allowing to take vacation.
-
-3)
