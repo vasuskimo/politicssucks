@@ -19,17 +19,17 @@ What will management do? Will they articulate this situation to every employee? 
 
 6) Dinner: Several startups provide dinner, for employees who stay beyond 6 pm.  There is no predictable pattern. Therefore, on some days a lot of food goes wasted. So, if the admin. orders less food, as a reaction, employees would start complaining.
 
-7) Stationery: It seems some employees take their stationery to be given to their school-going kids. So, as a result, in some cases, the office supplies would be locked and the admin. holds the key.
+7) Office Supplies: It seems some bad apples take their stationery to be used by their school-going kids. Instead of handling this on a case-by-case basis, which needs to be handled delicately, some startups have their office supplies locked and administered by the office admin.
 
 Unprofessional behavior:
 
 1) Irregular work hours
 
-2) loud conference call drama
+2) Loud conference call drama
 
 3) Busy typing annoyances
 
-4)  Long lunches
+4) Long lunches
 
 5) Cocky Admin.
 
