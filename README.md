@@ -59,4 +59,18 @@ Unprofessional behavior:
 
 18) Scantily clad employee
 
-19) 
+Money:
+
+1) Running out of money
+
+2) Later stage employees paid more compensation and stock options
+
+3) Suddenly out of business
+
+Power:
+
+1) Engineer writing significant amount of code.
+
+2) Not allowing to take vacation.
+
+3)
