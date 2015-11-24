@@ -74,3 +74,19 @@ Power:
 2) Not allowing to take vacation.
 
 3) Non-verbal communication when report tries to leave home slightly earlier than usual
+
+Misplaced values:
+
+1) Overrating staying late
+
+2) Super-long email threads
+
+3) Sending emails at odd hours and weekends, just to posture hard work
+
+4) Cult of busyness
+
+5) Not trusting individuals
+
+6) Too much bias for action
+
+7) "They are doing it."
