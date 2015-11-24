@@ -51,3 +51,12 @@ Unprofessional behavior:
 
 14) Racist Employee
 
+15) Friday Alcohol Arguments
+
+16) Ping Pong all day
+
+17) Facebook always open
+
+18) Scantily clad employee
+
+19) 
