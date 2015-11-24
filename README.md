@@ -2,7 +2,7 @@
 Office politics sucks and exists, even in silicon valley startups. This is why startups seek “startup savvy” employees.
 Every startup employee, regardless of whether, they are a manager or an individual contributor endures “ office politics”. 
 
-This is because decisions need to be made at all levels and they vividly remember the decisoin rationale and utilize it to wield power, resources are limited and it takes finite time to fix scarcity, knowledge is nuanced and asymmetric and therefore a person or team tries to assert power, policies need to be based on the context, otherwise it appears silly and not followed by majority of employees.
+This is because decisions need to be made at all levels and they vividly remember the decision rationale and some utilize it to wield power, resources are limited and it takes finite time to fix scarcity, knowledge is nuanced and asymmetric and therefore a person or team tries to assert power, policies need to be based on the context, otherwise it appears silly and not followed by majority of employees.
 
 Facilities:
 a) VOIP Phones: There is only budget for 100 VOIP Phones. After that, the price skyrockets by almost four times. 15 new employees, joined 100 existing employees, including a manager and a seasoned individual contributor, both would be on customer calls everyday and both needs to be reachable at their desks. 25 existing employees are expected to leave, as their project/product got canned. 
