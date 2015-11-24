@@ -15,9 +15,9 @@ What will management do? Will they articulate this situation to every employee? 
 
 4) Offices: Luckily, most good silicon valley startups don’t have offices, even for their CEOs. CEOs use conference rooms for having confidential conversations with customers. Otherwise, with the capacity problem, it would be a nightmare to kick people out of offices, to create conference rooms.
 
-5) Conference Rooms: Most startups would use Outlook to schedule conference rooms. Otherwise, it would be impossible to deal with conflicts. Even with reservation systems, some members use conference rooms as their offices, virtually using the whole day, having charts and other things on the wall, to exert more dominance.
+5) Conference Rooms: Most startups would use Outlook to schedule conference rooms. Otherwise, it would be impossible to deal with conflicts. Even with reservation systems, some members use conference rooms as their offices, virtually using the whole day, having charts and other visual things on the wall, to display dominance.
 
-6) Dinner: A lot of startups provide dinner, for employees who stay beyond 6 pm.  There is no predictable pattern. Therefore, on some days a lot of food goes wasted. So, if the admin. orders less food, as a reaction, employees would start complaining.
+6) Dinner: Several startups provide dinner, for employees who stay beyond 6 pm.  There is no predictable pattern. Therefore, on some days a lot of food goes wasted. So, if the admin. orders less food, as a reaction, employees would start complaining.
 
 7) Stationery: It seems some employees take their stationery to be given to their school-going kids. So, as a result, in some cases, the office supplies would be locked and the admin. holds the key.
 
