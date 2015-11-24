@@ -1,7 +1,5 @@
 # politicssucks
 Office politics sucks and exists, even in silicon valley startups. This is why startups seek “startup savvy” employees.
-Office politics sucks and exists, even in silicon valley startups. This is why startups seek “startup savvy” employees.
-
 Every startup employee, regardless of whether, they are a manager or an individual contributor endures “ office politics”. 
 
 This is because decisions need to be made at all levels and they remember the rationale and hold power, resources are limited and it takes finite time to fix scarcity, knowledge is nuanced and asymmetric and therefore a person or team tries to assert power, policies need to be based on the context, otherwise it appears silly and not followed by majority of employees.
