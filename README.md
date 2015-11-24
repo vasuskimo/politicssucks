@@ -31,19 +31,19 @@ Unprofessional behavior:
 
 4) Long lunches
 
-5) Cocky Admin.
+5) Cocky Admin. stereotype
 
 6) Swearing CEO/Founder
 
-7) Arrogant IT Admin.
+7) Arrogant IT Admin. stereotype
 
 8) Gossip mini-groups
 
-9) Great school swagger
+9) Great school swagger stereotype
 
-10) Angry Engineer
+10) Angry Engineer stereotype
 
-11) Engineer who doesn’t checkin code
+11) Engineer who doesn’t checkin code stereotype
 
 12) Sending mails past midnight
 
